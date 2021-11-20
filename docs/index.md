@@ -1,8 +1,8 @@
-# About
+## About
 
 I am heading a search group in Microscopic Image Analysis at [Jena University Hospital](https://www.uniklinikum-jena.de/). 
 
-# Interests and projects
+## Interests and projects
 
 We are am broadly interested in Bayesian inference and its application to biological and other scientific data. We view probability theory as the mathematical framework for making consistent inferences and predictions from incomplete and uncertain information. Therefore, Bayesian methods are powerful tools to support scientific inference and to solve engineering problems. Our previous and current research focuses on three highly interconnected topics: Computational structural biology, Bayesian computation and Statistical physics.
 
