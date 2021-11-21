@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: Michael Habeck
+social:
+  type: researchgate
+  links: https://www.researchgate.net/profile/Michael-Habeck
