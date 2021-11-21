@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Michael Habeck
-social:
-  type: researchgate
-  links: https://www.researchgate.net/profile/Michael-Habeck
+author:
+  name: "Michael Habeck"
+  researchgate: "https://www.researchgate.net/profile/Michael-Habeck"
+  googlescholar: "https://scholar.google.com/citations?hl=de&user=AeAOEM8AAAAJ"
